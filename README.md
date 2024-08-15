@@ -13,3 +13,5 @@
 - [ ]  GAMEPLAY
 - - [ ]  Level design
 - - [ ]  Pick ups
+- - [ ]  Score system
+- - [ ]  Win/Lose conditions
