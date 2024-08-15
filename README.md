@@ -4,7 +4,7 @@
  ## TDL
 
  - [ ] MULTIPLAYER
- - - [ ] Server client model
+ - - [ ] Server/Client model
  - - [ ] Replication
  - - [ ] RPCs
  - - [ ] Authority
