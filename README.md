@@ -10,6 +10,6 @@
  - - [ ] Authority
  - - [ ] Players states
    
-   - [ ]  GAMEPLAY
-   - - [ ]  Level design
-     - [ ]  Pick ups
+- [ ]  GAMEPLAY
+- - [ ]  Level design
+- - [ ]  Pick ups
