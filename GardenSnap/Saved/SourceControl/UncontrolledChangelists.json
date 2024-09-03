@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/Garden-Snap/GardenSnap/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/Garden-Snap/GardenSnap/Content/Assets/Audio/Meow_Sound_Effect.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/Garden-Snap/GardenSnap/Content/Levels/Level01.umap",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/Garden-Snap/GardenSnap/Content/Blueprints/BP_PlayerState.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/Garden-Snap/GardenSnap/Content/Blueprints/BP_GameModeMain.uasset",
+				"C:/Users/mario/OneDrive/Documents/UNREAL ENGINE/Garden-Snap/GardenSnap/Content/Blueprints/BP_PlayerController.uasset"
+			]
+		}
+	]
+}
