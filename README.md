@@ -1,7 +1,7 @@
 # Garden-Snap
  ONGOING
 
- ## TDL
+ ## Features
 
  - [x] MULTIPLAYER
  - - [x] Server/Client model
