@@ -3,15 +3,21 @@
 
  ## TDL
 
- - [ ] MULTIPLAYER
- - - [ ] Server/Client model
- - - [ ] Replication
- - - [ ] RPCs
- - - [ ] Authority
- - - [ ] Players states
+ - [x] MULTIPLAYER
+ - - [x] Server/Client model
+ - - [x] Replication
+ - - [x] RPCs
+ - - [x] Authority
+ - - [x] Players states
    
-- [ ]  GAMEPLAY
-- - [ ]  Level design
-- - [ ]  Pick ups
-- - [ ]  Score system
-- - [ ]  Win/Lose conditions
+- [x]  GAMEPLAY
+- - [x]  Level design
+- - [x]  Pick ups
+- - [x]  Score system
+- - [x]  Win/Lose conditions
+
+ - [x]  PLAYER
+- - [x]  Controller
+- - [x]  Animation simple State Machine
+- - [x]  Sound input
+  
