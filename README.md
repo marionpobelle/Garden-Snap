@@ -1,7 +1,17 @@
 # Garden-Snap
- ONGOING
 
- ## Features
+## Summary
+
+Garden Snap is a small mini-game where skeletons harvest vegetables. This small project allowed me to try out online multiplayer in Unreal Engine.
+
+## Development
+
+This game was made with [Unreal Engine](https://www.unrealengine.com/fr) using Blueprints.
+
+## Demo
+
+
+## Features
 
  - [x] MULTIPLAYER
  - - [x] Server/Client model
